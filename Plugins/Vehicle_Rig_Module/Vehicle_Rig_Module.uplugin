@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1.1",
+	"FriendlyName": "Vehicle Rig Module",
+	"Description": "Vehicle Rig Module Plugin which adds a module for car animation. ",
+	"Category": "Other",
+	"CreatedBy": "Post Processed",
+	"CreatedByURL": "https://www.youtube.com/@postprocessed",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "ControlRigModules",
+			"Enabled": true
+		}
+	]
+}
